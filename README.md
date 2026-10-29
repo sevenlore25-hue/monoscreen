@@ -3,7 +3,7 @@
 Termux için **siyah-beyaz**, **dokunmatik destekli** terminal ekran kütüphanesi.
 Bağımlılık yok, sadece Python 3.8+. Diğer projelerde kütüphane olarak kullanılabilir.
 
-- Dokunma: SGR fare raporlama ile tap / sürükleme / kaydırma
+- Dokunma: SGR fare raporlama ile sadece tap kaydırma ve sürukleme yok
 - Yalnızca ters renk + kalın ile tek renkli arayüz (pil dostu, her terminalde çalışır)
 - Satır bazlı fark çizimi (sadece değişen satırlar yazılır)
 - Braille tuval: hücre başına 2x4 piksel (çizgi, dikdörtgen, daire)
