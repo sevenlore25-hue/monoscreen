@@ -13,7 +13,7 @@ Bağımlılık yok, sadece Python 3.8+. Diğer projelerde kütüphane olarak kul
 
 ```sh
 pkg install -y git python
-git clone https://github.com/KULLANICI/monoscreen.git
+git clone https://github.com/sevenlore25-hue/monoscreen.git
 cd monoscreen
 sh install.sh        # pip install -e . yapar
 python examples/demo.py
@@ -23,7 +23,7 @@ Başka projede kullanmak için (kurulumdan sonra) `from monoscreen import ...` y
 Kurmadan kullanmak istersen klasörü projene kopyala ya da submodule ekle:
 
 ```sh
-git submodule add https://github.com/KULLANICI/monoscreen.git libs/monoscreen
+git submodule add https://github.com/sevenlore25-hue/monoscreen.git libs/monoscreen
 ```
 
 ## Hızlı örnek
